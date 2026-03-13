@@ -1,0 +1,2 @@
+# Disable Bzlmod to avoid network access to Bazel Central Registry
+common --noenable_bzlmod
