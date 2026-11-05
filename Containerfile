@@ -1,4 +1,4 @@
-FROM quay.io/konflux-ci/bazel6-ubi9:latest@sha256:41fb03ce654a3978ca57584ad26c23c97a1179e364cfa3468bc8c5527d8df0d4
+FROM quay.io/konflux-ci/bazel6-ubi9:latest@sha256:7238094a01045a272a5ad0d7775426d8abc42541fb03b650a4cffead18c6a13c
 
 # Prepare Bazel workspace
 WORKDIR /workspace
